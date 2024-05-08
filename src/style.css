@@ -1,0 +1,17 @@
+.App{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+
+}
+
+
+.form input{
+    height: 50px;
+    margin-top: 20px;
+}
